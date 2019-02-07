@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352039438298",
+    "firebase_url": "https://userform-941bb.firebaseio.com",
+    "project_id": "userform-941bb",
+    "storage_bucket": "userform-941bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352039438298:android:0720d0e4a697e9e5",
+        "android_client_info": {
+          "package_name": "com.example.himshikha.userform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352039438298-n1a50vla08maig7mki89u78oano48e50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himshikha.userform",
+            "certificate_hash": "0d16756b3a7ead8773186316cf38e53e0484eeca"
+          }
+        },
+        {
+          "client_id": "352039438298-uilnqlktbre685996gm8qg9nsk9lssob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStND0NOCMhiBMl1JbA1xn3hIP4vwFqCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352039438298-uilnqlktbre685996gm8qg9nsk9lssob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
