@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         concave_points = (EditText)findViewById(R.id.concave_points);
 
         save = (Button)findViewById(R.id.button);
-        
+
 
         mRootRef = FirebaseDatabase.getInstance().getReference().child("Users");
 
